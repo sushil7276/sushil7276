@@ -14,7 +14,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushil7276&label=Profile%20views&color=0e75b6&style=flat" alt="sushil7276" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack Development**
+- 🌱 I’m currently learning **Front-End Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sushil7276](https://github.com/sushil7276)
 
